@@ -1,2 +1,4 @@
 # Java-Assignment
-Java practical Assignment 1
+Faith-Oasis Sifiso Mushangwe H240090Q
+Tawananyasha Mukoriwo H240159C
+
