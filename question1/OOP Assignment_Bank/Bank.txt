@@ -1,0 +1,10 @@
+Faith-Oasis deposited $300.0| New balance: $5300.0
+Faith-Oasis deposited $300.0| New balance: $5300.0
+Faith-Oasis withdrew $200.0 New Balance: $5100.0
+Faith-Oasis checked balance | Balance: $5100.0
+
+
+
+Faith-Oasisdeposited $300.0| New balance: $5300.0
+Faith-Oasiswithdrew $200.0 New Balance: $5100.0
+Faith-Oasischecked balance | Balance: $5100.0
